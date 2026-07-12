@@ -36,3 +36,8 @@ logs/
 *.log
 .env
 .DS_Store
+
+### jar ###
+app.jar
+/web.config
+*.zip
